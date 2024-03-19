@@ -84,10 +84,16 @@ table, table th, table td
 h2{
 font-size: 18;
 text-decoration: underline;
+
 }
 
 h3{
 font-size: 14;
 font-style: italic;
+
+}
+img{
+text-align: right;
+
 
 }
